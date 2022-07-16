@@ -155,12 +155,12 @@ async function updateStatus() {
 
     //await client.user.setActivity(`En constantes actualizaciones`, { type: "LISTENING"})
     //await client.user.setActivity(`En pruebas`, { type: "LISTENING"})
-    //await client.user.setActivity(`Servidores: ${guildNum} Miembros: ${memberNum}`, {  type: "STREAMING",
-    //url: "https://www.twitch.tv/newoscaryt"
-   //})
-   await client.user.setActivity(`En mantenimiento / In mantenimance`, {  type: "STREAMING",
+    await client.user.setActivity(`Servidores: ${guildNum} Miembros: ${memberNum}`, {  type: "STREAMING",
     url: "https://www.twitch.tv/newoscaryt"
    })
+   //await client.user.setActivity(`En mantenimiento / In mantenimance`, {  type: "STREAMING",
+    //url: "https://www.twitch.tv/newoscaryt"
+   //})
     
     //await client.user.setActivity(`Servidores: ${guildNum} Miembros: ${memberNum}`, { type: "WATCHING"},)
 }
