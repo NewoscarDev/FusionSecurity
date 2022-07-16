@@ -1,0 +1,72 @@
+{
+	"utilities": {
+		"errorEmbed": "Error",
+		"noInvitePerms": "Necesito el permiso de `crear invitaciones` para ejecutar este comando.",
+		"unexpectedError": "Ha ocurrido un error inesperado.",
+		"badRequest": "La solicitud no se ejecutó correctamente."
+	},
+	"backup": {
+        "author": "Para usar este backup usa /backupload {link}",
+        "created": "Backup creada correctamente",
+        "todm": "La id ha sido enviada a tus mensajes directos",
+        "description": "**Tamaño:**\n> {size} mb\n**Backup ID:**\n> {backupID}\n**Server ID:**\n> {serverID}\n**Creada Hace:**\n> {createdAt}",
+        "title": "Informacion del backup",
+        "but1": "SI",
+        "but2": "NO",
+        "warn": "Advertencia: TODOS los canales, roles, etc. serán reemplazados al cargar la copia de seguridad, haga clic en los botones para confirmar la acción.",
+        "notaut": "No puedes tomar la decision de otro usuario!",
+        "executed": "El backup ha sido ejecutado!",
+        "canceled": "El backup ha sido cancelado!"
+    },
+	"avatar": {
+		"objective": "El avatar de {username} es:",
+		"self": "Tu avatar es:",
+		"objective {{username}}": "avatar.objective {{username}}"
+	},
+	"lang": {
+		"newLanguage": "Has seleccionado un nuevo lenguaje.",
+		"noAdministrator": "No tienes suficientes permisos para ejecutar este comando."
+	},
+	"youtube": {
+		"noChannel": "Necesitas estar en un canal de voz para ejecutar este comando.",
+		"loading": "Iniciando sesión de Youtube Together...",
+		"inviteMessage": "**[Haz click aquí]({inviteLink} 'Enlace de Youtube')**"
+	},
+	"MESSAGE": {
+		"1": "No dispongo del permiso ",
+		"2": "Ese comando está desactivado por los administradores.",
+		"3": "Este comando es exclusivo para developers",
+		"4": "Este comando es solo para testers",
+		"5": "este comando es solo para premiums.",
+		"6": "Este mensaje es solo para personas que han votado en las últimas 12h.",
+		"7": "Usaste mal",
+		"8": ", uso correcto:",
+		"9": "",
+		"10": "Espera",
+		"11": "segundos para usar",
+		"12": "Hubo un error en la ejecución del comando. Por favor acceda al servidor de soporte ( <https://support.nodebot.xyz> ) y repórtelo.",
+		"13": "Este comando es exclusivo del servidor de soporte de Node, en un futuro estará disponible para el público ^^.",
+		"14": "El prefijo de Node es",
+		"15": "Estás baneado del bot.",
+		"16": "Peligro",
+		"17": "El enlace adjunto contiene un enlace malicioso.",
+		"18": "El enlace adjunto contiene un enlace prohibido por los administradores.",
+		"19": "Necesito el permiso ",
+		"20": "para poder asegurar este servidor ante enlaces maliciosos <:check:864102909704798208>."
+	},
+	"moderacion": {
+		"comandos": "**🛑 Comandos de moderacion 🛑**\n```/warn``` sirve para advertir a un usuario sobre la fraccion cometida en el servidor.\n```/clear``` Elimina mensajes en el servidor de discord.\n````/lock``` Sirve para bloquear el canar al rol seleccionado\n```/unlock``` Sirve para desbloquear el canal al usuario seleccionado.\n```/no-escribir``` Bloquea la escritura en el canal que se ejecute el comando al rol seleccionado\n```/escribir``` Desbloquea la escritura en el canal que se ejecute el comando al rol seleccionado\n```/ban``` Banea a un usuario de tu servidor\n```/kick``` Expulsa a un usuario de tu servidor\n```/setrolemute (rol)``` Sirve para elegir el rol de muteo del servidor\n```/mute``` Sirve para mutear a un usuario\n```/createrol (nombre del rol)``` Sirve  para crear un rol en el servidor\n```/warns (usuario)``` Te muestra los warns que lleva el miembro seleccionado\n```/```"
+	},
+	"informacion": {
+		"comandos": "**📋 Comandos de informacion 📋**\n```/redes``` Te muestra las redes sociales de los programadores.\n```/discord``` Te da el enlace al discord oficial del bot.\n```/actualizaciones``` Te muestra las actualizaciones mas recientes del bot.\n```/invitacion``` Al ejecutar el comando te saldra la invitacion del bot para que lo puedas invitar a tu servidor.\n```/status``` Con este comando podras ver la informacion y el estado de FusionSecurity\n```/vote``` Con este comando podras votar a FusionSecurity en webs de bots de discord.\n```/reporte``` Al ejecutar este comando saldran algunas opciones de reportar bugs o problemas con el bot.\n```/ping``` Te  muestra el ping del bot.\n```/server-info``` Sirve para ver la informacion del servidor.\n````/user-info``` Sirve para darte la informacion sobre el usuario seleccionado."
+	},
+	"owner": {
+		"comandos": "**🔒 Comandos del Owner 🔒**\n```Comandos en desarrollo para estar mejor informado de nuestro bot consulte nuestra pagina web.```"
+	},
+	"diversion": {
+		"comandos": "**🎮 Comandos de diversion 🎮**\n```/avatar``` Muestra el avatar del usuario seleccionado o del tuyo propio.\n```/calculator``` Saca una calculadora para hacer calculos matematicos.\n```/skin``` Enseña la skin del usuario seleccionado.\nSolo funciona con cuentas premium de mc.\n```/sesiones``` Con este comando podras ver youtube o jugar a juegos con tus amigos en un canal de voz.\n```/logro (nombre del logro sin espacios)``` Sirver para escribir un mensaje de una sola palabra en un recuadro\ncomo un logro de minecraft. "
+	},
+	"musica": {
+		"comandos": "**🎵  Comandos de musica 🎵**\n```/play (cancion)``` Reproduce la cancion de tu artista favorito.\n````/pause``` Pausa la cancion que estes escuchando en ese momento.\n```/continue``` Hace que continue la cancion que hallas puesto.\n```/queue``` Enseña la playlist de las canciones que hallas seleccionado.\n```/lopp``` Hace que se repita la playlist las veces que selecciones.\n```/volume (volumen)``` Sube la musica de la cancion que estes escuchando.\n```/skip``` Salta la cancion que estes escuchando."
+	}
+}

@@ -1,0 +1,72 @@
+{
+	"utilities": {
+		"errorEmbed": "Error",
+		"noInvitePerms": "`Create invites` permission is needed to execute this command.",
+		"unexpectedError": "An unexpected error has occured.",
+		"badRequest": "The request was not executed as expected."
+	},
+	"backup": {
+        "author": "For using this backup use f!backupload {link}",
+        "created": "Backup created succesfully",
+        "todm": "The id has been sent to your DM's",
+        "description": "**Size:**\n> {size} mb\n**Backup ID:**\n> {backupID}\n**Server ID:**\n> {serverID}\n**Created At:**\n> {createdAt}",
+        "title": "Backup Information",
+        "but1": "YES",
+        "but2": "NO",
+        "warn": "Warning: ALL channels, roles, etc. they will be replaced when loading the backup click on the buttons to confirm the action!",
+        "notaut": "You cannot make the decision of another user",
+        "executed": "The backup has been executed!",
+        "canceled": "The backup has been canceled!"
+    },
+	"avatar": {
+		"objective": "{username}'s avatar:",
+		"self": "Your avatar:",
+		"objective {{username}}": "avatar.objective {{username}}"
+	},
+    "lang": {
+        "newLanguage": "You've selected a new language.",
+        "noAdministrator": "You don't have enough permissions to execute this command."
+    },
+	"youtube": {
+		"noChannel": "You need to be on a voice channel in order to execute this command.",
+		"loading": "Loading Youtube Together...",
+		"inviteMessage": "**[Click here]({inviteLink} 'Youtube Link')**"
+	},
+	"MESSAGE": {
+		"1": "I don't have the permission ",
+		"2": "This command is disabled by the administrators.",
+		"3": "This command is exclusive for developers.",
+		"4": "This command is exclusive for testers.",
+		"5": "This command is exclusive for premiums.",
+		"6": "This command is exclusive for the people who voted for Node on the last 12 hours.",
+		"7": "You didn't use the command as expected",
+		"8": ", correct usage:",
+		"9": "",
+		"10": "Wait",
+		"11": "seconds to use",
+		"12": "There was an error executing this command.  Please join the support server ( <https://support.nodebot.xyz> ) and report it.",
+		"13": "This command is exclusive for Node's support server,  it will be available on the future for all of you ^^.",
+		"14": "Node's prefix is",
+		"15": "You're banned from the bot.",
+		"16": "Danger",
+		"17": "The sent link contains a dangerous website.",
+		"18": "The sent link contains a prohibited website by the administrators.",
+		"19": "I need ",
+		"20": " permission to protect this server against malicious links <:check:864102909704798208>."
+	  },
+	  "moderacion": {
+		  "comandos": "**🛑 Comandos de moderacion 🛑**\n```/warn``` sirve para advertir a un usuario sobre la fraccion cometida en el servidor.\n```/ban``` Banea a un usuario en tu servidor.\n```/kick``` Expulsa a un usuario de tu servidor.\n```/clear``` Elimina mensajes en el servidor de discord."
+	  },
+	  "informacion": {
+		  "comandos": "**📋 Comandos de informacion 📋**\n```/redes``` Te muestra las redes sociales de los programadores.\n```/discord``` Te da el enlace al discord oficial del bot.\n```/actualizaciones``` Te muestra las actualizaciones mas recientes del bot.\n````/invitacion``` Al ejecutar el comando te saldra la invitacion del bot para que lo puedas invitar a tu servidor.\n```/status``` Con este comando podras ver la informacion y el estado de FusionSecurity\n```/vote``` Con este comando podras votar a FusionSecurity en webs de bots de discord.\n```/reporte``` Al ejecutar este comando saldran algunas opciones de reportar bugs o problemas con el bot.\n```/ping``` Te  muestra el ping del bot."
+	  },
+	  "owner": {
+		  "comandos": "**🔒 Comandos del Owner 🔒**\n```Comandos en desarrollo para estar mejor informado de nuestro bot consulte nuestra pagina web.```"
+	  },
+	  "diversion": {
+		  "comandos": "**🎮 Comandos de diversion 🎮**\n```/avatar``` Muestra el avatar del usuario seleccionado o del tuyo propio.\n```/calculator``` Saca una calculadora para hacer calculos matematicos."
+	  },
+	  "musica": {
+		  "comandos": "** 🎵 Music commands 🎵 ** \n``` / play (song) ```Play the song of your favorite artist. \n```` / pause``` Pause the song you are listening to at the moment . \n``` / continue``` Makes the current song continue. \n``` / queue``` Show the playlist of the selected songs. \n``` / lopp``` Makes the playlist repeat the number of times you select. \n``` / volume (volume)``` Turn up the music of the song you are listening to. \n``` / skip``` Skip the song you are listening to."
+	  }
+}
